@@ -30,3 +30,7 @@ body{
     justify-content: space-evenly;
     margin-bottom: 30px;
 }
+
+.main h1{
+    color: white;
+}
